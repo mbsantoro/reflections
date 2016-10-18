@@ -1,0 +1,39 @@
+Viewing the differenece between (2) versions helped me see the bug by making
+ it very easy to find. It did this by identifying all of the difference.
+Since not much had changed between the (2) versions this was easy to find.
+
+Having easy access to the entire history of a file will make me more
+effiecient in the long term by allowing me to save ideas. I could keep
+definitions and re-use them in instances that are similar. Failed programs
+may be the coreect program for new problems.
+
+The pros of manually choosing when to create a commit, like what you do in
+Git is that you can always commit compiled prorams. You will also not be
+wasteing space with unwanted versions of the program. The cons of not having
+a program that saves you backup automattically is that there could be user
+errors such as not remembering to backup the file. There may not be granular
+ enough save points if it is not automated.
+
+I think Git allows you to save multiple files in one commit because it is
+purposed for programming where there are multiple files referenced. This
+This allows for a true snapshot in time. This also ensures that thoseeferenced files are not used with later versions.
+
+Git log returns a summary of commits with IDs and notes on the commit to help
+ find the specific GIT that you are looking for. After finding the Commit you
+that you werer looking for you can compare diffferences with the git diff comma$
+
+How might using version control make you more confident to make changes that
+could break something?
+
+This would allow me to able to always go back to the previous version that
+Git log returns a summary of commits with IDs and notes on the commit to help
+ find the specific GIT that you are looking for. After finding the Commit you
+that you werer looking for you can compare diffferences with the git diff comma$
+
+How might using version control make you more confident to make changes that
+could break something?
+
+This would allow me to able to always go back to the previous version that
+worked. I would always be able to try new code and take a step back if the new
+code does not work.
+
