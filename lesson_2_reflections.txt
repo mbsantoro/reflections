@@ -19,3 +19,10 @@ Staging area is a great tool understand a snapshot in time. This could be
 helpful if you get pulled off task. Using git diff and will be helpful 
 tool in this regard.
 
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+Branches could be helpful when starting a large complex program that you 
+may want to develop different pieces for in parellel. The starting one 
+being the master and working on different pieces to not mess up the main 
+branch.
