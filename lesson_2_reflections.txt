@@ -12,3 +12,10 @@ multiple files being commited. This is helpful in writing code because one
 small change does not ensure that only one file changed. This way you can
 commit mulitple files at once.
 
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+Staging area is a great tool understand a snapshot in time. This could be 
+helpful if you get pulled off task. Using git diff and will be helpful 
+tool in this regard.
+
