@@ -32,3 +32,9 @@ How do the diagrams help you visualize the branch structure?
 The diagrams help visualize where in the development we are pointing and 
 where we may be able to work from. Understanding this structure will be 
 helpful in understanding the development of the program.
+
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+
+Merging two branches combines them. They become one branch so now the 
+commits are interleaved.
