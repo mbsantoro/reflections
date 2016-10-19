@@ -26,3 +26,9 @@ Branches could be helpful when starting a large complex program that you
 may want to develop different pieces for in parellel. The starting one 
 being the master and working on different pieces to not mess up the main 
 branch.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help visualize where in the development we are pointing and 
+where we may be able to work from. Understanding this structure will be 
+helpful in understanding the development of the program.
