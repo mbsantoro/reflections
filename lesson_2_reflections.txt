@@ -38,3 +38,9 @@ it in the diagram the way we do?
 
 Merging two branches combines them. They become one branch so now the 
 commits are interleaved.
+
+What are the pros and cons of Git's automatic merging vs. always doing 
+merges maually?
+
+Git will usually make the right deciscion and if it has a question it 
+will not guess.
