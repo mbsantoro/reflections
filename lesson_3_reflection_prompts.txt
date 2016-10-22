@@ -25,3 +25,6 @@ development to add a feature that does not affect previous code. This can
 be useful for other people to work on code or you to individaully develop 
 someting. 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This allows for you to know the status of your commits compared to what is on the cloud.
