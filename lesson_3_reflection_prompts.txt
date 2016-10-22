@@ -12,3 +12,16 @@ This alllows the user to have discression on which of others chnages are
 included in the you local repository. If someone made a change that 
 introuced a bug or you do not want to implement a feature that someone 
 added.
+
+Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+
+Forks are used when you would like to use someone elses work to start to 
+complete your own project. If you like someone else's code you can fork 
+to begin your own project as a starting point. Clones are used to work in 
+you work in your development enviroment. You can make edits and 
+troubleshoot to your likeing. Branches are used in your your project 
+development to add a feature that does not affect previous code. This can 
+be useful for other people to work on code or you to individaully develop 
+someting. 
+
