@@ -25,6 +25,15 @@ development to add a feature that does not affect previous code. This can
 be useful for other people to work on code or you to individaully develop 
 someting. 
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
 
-This allows for you to know the status of your commits compared to what is on the cloud.
+This allows for you to know the status of your commits compared to what is on the 
+cloud.
+
+How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+
+Files could be sent to eachother. You could duplicate the files and make changes. 
+This would make it easier to share the files but it would make it much harder to 
+collaborate.
